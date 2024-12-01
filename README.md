@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+ # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -11,12 +11,6 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 **Equipment Required:**
 
 Hardware – PCs, Cyclone II , USB flasher
-
-**Software – Quartus prime**
-
-**Theory**
-
-**Logic Diagram**
 
 **Procedure**
 
@@ -33,18 +27,35 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
+i)
+
+<img width="397" alt="Screenshot 2024-11-29 at 9 21 25 PM" src="https://github.com/user-attachments/assets/cefbfc8a-9530-46e6-bf9a-431a50ed928e">
+
+ii)
+
+<img width="317" alt="Screenshot 2024-11-29 at 9 06 23 PM" src="https://github.com/user-attachments/assets/b4997de6-dfb0-4295-89e8-45a85f9bff9d">
+
+
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+Developed by:Prathik T.S
+
+RegisterNumber: 24000205
 
 
 **RTL realization**
+<img width="1456" alt="Screenshot 2024-11-29 at 6 27 08 PM" src="https://github.com/user-attachments/assets/70e2fbc0-4479-43c7-bc7d-888e7658619f">
 
-**Output:**
+
+
+<img width="1449" alt="Screenshot 2024-11-29 at 9 30 16 PM" src="https://github.com/user-attachments/assets/9ea49f12-a8bc-4e54-88d9-7fa095c0ea37">
+
+
 
 **RTL**
+<img width="1466" alt="Screenshot 2024-11-29 at 9 20 22 PM" src="https://github.com/user-attachments/assets/1c6652a8-f964-4b5d-b22e-cc2b20e138c1">
+<img width="1421" alt="Screenshot 2024-11-29 at 9 16 02 PM" src="https://github.com/user-attachments/assets/da00f3c7-4931-473e-b454-13a85c478db5">
 
-**Timing Diagram**
 
 **Result:**
 
